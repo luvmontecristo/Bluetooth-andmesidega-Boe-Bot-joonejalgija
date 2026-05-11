@@ -1,3 +1,5 @@
+ROBOTI DEMOVIDEOTE LINK: https://drive.google.com/drive/folders/1RpgiQbuIZRscVKS52hp9ohDJJIUKWH_h?usp=sharing
+
 Riistvara:
 Arduino Uno (BOE-Bot), 
 HC-05 Bluetooth moodul, 
