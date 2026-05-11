@@ -1,8 +1,8 @@
 Riistvara:
-Arduino Uno (BOE-Bot)
-HC-05 Bluetooth moodul
-QTI sensorid (joonejälgimine)
-Toide (5x AA)
+Arduino Uno (BOE-Bot), 
+HC-05 Bluetooth moodul, 
+QTI sensorid (joonejälgimine), 
+Toide (5x AA), 
 Takistid 2x 10k
 
 Tarkvara:
