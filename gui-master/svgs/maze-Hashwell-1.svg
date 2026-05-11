@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   width="9933px"
+   height="7016px"
+   viewBox="0 0 9933 7016"
+   enable-background="new 0 0 9933 7016"
+   xml:space="preserve"
+   sodipodi:docname="maze-Hashwell-1.svg"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"><metadata
+   id="metadata41"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
+   id="defs39" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="2560"
+   inkscape:window-height="1346"
+   id="namedview37"
+   showgrid="false"
+   inkscape:zoom="0.15077542"
+   inkscape:cx="5902.8189"
+   inkscape:cy="4241.4075"
+   inkscape:window-x="-11"
+   inkscape:window-y="-11"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Layer_1"
+   inkscape:showpageshadow="2"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1" />
+<text
+   transform="rotate(90.114591)"
+   font-size="250px"
+   id="text2"
+   x="2879.0071"
+   y="-9354.8496"
+   style="font-size:250.001px;font-family:KristenITC-Regular;stroke-width:1">Hashwell-1</text>
+
+
+<text
+   transform="rotate(90.332312)"
+   font-size="250"
+   id="text4"
+   x="1393.4487"
+   y="-357.61142"
+   style="font-size:250.004px;font-family:KristenITC-Regular;stroke-width:1.00002">Start</text>
+
+
+<text
+   transform="rotate(90.03495)"
+   font-size="250"
+   id="text6"
+   x="4650.8335"
+   y="-406.01175"
+   style="font-size:250px;font-family:KristenITC-Regular">Finish</text>
+
+
+<rect
+   y="0"
+   fill="none"
+   stroke="#000000"
+   stroke-miterlimit="10"
+   width="9933"
+   height="7007"
+   id="rect8" />
+<line
+   stroke-miterlimit="10"
+   x1="612"
+   y1="985.51526"
+   x2="9497.8232"
+   y2="985.51526"
+   id="line10"
+   style="fill:none;stroke:#000000;stroke-width:247.79043579;stroke-miterlimit:10" />
+<line
+   stroke-miterlimit="10"
+   x1="8406"
+   y1="317.86856"
+   x2="8406"
+   y2="6552"
+   id="line12"
+   style="fill:none;stroke:#000000;stroke-width:245.72377014;stroke-miterlimit:10" />
+<line
+   stroke-miterlimit="10"
+   x1="9446.1885"
+   y1="5508"
+   x2="4707"
+   y2="5508"
+   id="line14"
+   style="fill:none;stroke:#000000;stroke-width:245.73814392;stroke-miterlimit:10" />
+<line
+   stroke-miterlimit="10"
+   x1="5814"
+   y1="6525"
+   x2="5814"
+   y2="1869.6628"
+   id="line16"
+   style="fill:none;stroke:#000000;stroke-width:243.33131409;stroke-miterlimit:10;stroke-dasharray:none" />
+<line
+   stroke-miterlimit="10"
+   x1="7255.897"
+   y1="3015.9714"
+   x2="699.50055"
+   y2="3015.9714"
+   id="line18"
+   style="fill:none;stroke:#000000;stroke-width:261.26901245;stroke-miterlimit:10" />
+<line
+   fill="none"
+   stroke="#000000"
+   stroke-width="250"
+   stroke-miterlimit="10"
+   x1="2763"
+   y1="1809"
+   x2="2763"
+   y2="6597"
+   id="line20" />
+<line
+   fill="none"
+   stroke="#000000"
+   stroke-width="250"
+   stroke-miterlimit="10"
+   x1="3879"
+   y1="5805"
+   x2="630"
+   y2="5805"
+   id="line22" />
+<line
+   stroke-miterlimit="10"
+   x1="612.81641"
+   y1="618.15814"
+   x2="612.81641"
+   y2="1302.1582"
+   id="line24"
+   style="fill:none;stroke:#000000;stroke-width:150;stroke-miterlimit:10" />
+<line
+   stroke-miterlimit="10"
+   x1="468.64343"
+   y1="618.15814"
+   x2="468.64343"
+   y2="1302.1581"
+   id="line26"
+   style="fill:none;stroke:#000000;stroke-width:150;stroke-miterlimit:10" />
+<line
+   stroke-miterlimit="10"
+   x1="324.47049"
+   y1="618.15814"
+   x2="324.47049"
+   y2="1302.1582"
+   id="line28"
+   style="fill:none;stroke:#000000;stroke-width:150;stroke-miterlimit:10" />
+
+
+
+<text
+   xml:space="preserve"
+   style="font-style:normal;font-weight:normal;font-size:5.33333px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+   x="9107.5947"
+   y="3273.4817"
+   id="text45"><tspan
+     sodipodi:role="line"
+     id="tspan43"
+     x="9107.5947"
+     y="3273.4817"> </tspan></text>
+
+<circle
+   id="path62"
+   style="fill:#000000;stroke:none"
+   cx="1200.5892"
+   cy="2307.3823"
+   r="1.5" /><line
+   style="fill:none;stroke:#000000;stroke-width:150;stroke-miterlimit:10"
+   stroke-miterlimit="10"
+   x1="656.5722"
+   y1="5473.4106"
+   x2="656.5722"
+   y2="6157.4106"
+   id="line28-8" /><line
+   style="fill:none;stroke:#000000;stroke-width:150;stroke-miterlimit:10"
+   stroke-miterlimit="10"
+   x1="508.67679"
+   y1="5473.4106"
+   x2="508.67679"
+   y2="6157.4106"
+   id="line28-8-1" /><line
+   style="fill:none;stroke:#000000;stroke-width:150;stroke-miterlimit:10"
+   stroke-miterlimit="10"
+   x1="362.49496"
+   y1="5473.4106"
+   x2="362.49496"
+   y2="6157.4106"
+   id="line28-8-3" /></svg>

@@ -1,0 +1,329 @@
+{
+  "name": "Roswell-1upgraded",
+  "start": [
+    5235,
+    850
+  ],
+  "start_heading": "E",
+  "start_segment": "start_to_marker_1",
+  "markers": [
+    [
+      8444,
+      850
+    ],
+    [
+      9044,
+      5772
+    ],
+    [
+      5235,
+      6266
+    ],
+    [
+      1524,
+      6266
+    ],
+    [
+      7164,
+      4883
+    ],
+    [
+      7815,
+      2402
+    ],
+    [
+      809,
+      2362
+    ]
+  ],
+  "finish": [
+    5235,
+    850
+  ],
+  "segments": {
+    "start_to_marker_1": [
+      [
+        5235,
+        850
+      ],
+      [
+        8444,
+        850
+      ]
+    ],
+    "marker_1_to_marker_2_1": [
+      [
+        8444,
+        850
+      ],
+      [
+        9044,
+        850
+      ]
+    ],
+    "marker_1_to_marker_2_2": [
+      [
+        9044,
+        850
+      ],
+      [
+        9044,
+        5772
+      ]
+    ],
+    "marker_2_to_marker_3_1": [
+      [
+        9044,
+        5772
+      ],
+      [
+        9044,
+        6266
+      ]
+    ],
+    "marker_2_to_marker_3_2": [
+      [
+        9044,
+        6266
+      ],
+      [
+        5235,
+        6266
+      ]
+    ],
+    "marker_3_to_marker_4": [
+      [
+        5235,
+        6266
+      ],
+      [
+        1524,
+        6266
+      ]
+    ],
+    "marker_4_to_marker_5_1": [
+      [
+        1524,
+        6266
+      ],
+      [
+        925,
+        6266
+      ]
+    ],
+    "marker_4_to_marker_5_2": [
+      [
+        925,
+        6266
+      ],
+      [
+        902,
+        4883
+      ]
+    ],
+    "marker_4_to_marker_5_3": [
+      [
+        902,
+        4883
+      ],
+      [
+        7164,
+        4883
+      ]
+    ],
+    "marker_5_to_marker_6_1": [
+      [
+        7164,
+        4883
+      ],
+      [
+        7823,
+        4883
+      ]
+    ],
+    "marker_5_to_marker_6_2": [
+      [
+        7823,
+        4883
+      ],
+      [
+        7815,
+        2402
+      ]
+    ],
+    "marker_6_to_marker_7_1": [
+      [
+        7815,
+        2402
+      ],
+      [
+        7815,
+        1840
+      ]
+    ],
+    "marker_6_to_marker_7_2": [
+      [
+        7815,
+        1840
+      ],
+      [
+        6059,
+        1840
+      ]
+    ],
+    "marker_6_to_marker_7_3": [
+      [
+        6059,
+        1840
+      ],
+      [
+        6071,
+        3593
+      ]
+    ],
+    "marker_6_to_marker_7_4": [
+      [
+        6071,
+        3593
+      ],
+      [
+        4317,
+        3593
+      ]
+    ],
+    "marker_6_to_marker_7_5": [
+      [
+        4317,
+        3593
+      ],
+      [
+        4305,
+        1840
+      ]
+    ],
+    "marker_6_to_marker_7_6": [
+      [
+        4305,
+        1840
+      ],
+      [
+        2551,
+        1840
+      ]
+    ],
+    "marker_6_to_marker_7_7": [
+      [
+        2551,
+        1840
+      ],
+      [
+        2563,
+        3593
+      ]
+    ],
+    "marker_6_to_marker_7_8": [
+      [
+        2563,
+        3593
+      ],
+      [
+        809,
+        3593
+      ]
+    ],
+    "marker_6_to_marker_7_9": [
+      [
+        809,
+        3593
+      ],
+      [
+        809,
+        2362
+      ]
+    ],
+    "marker_7_to_start_1": [
+      [
+        809,
+        2362
+      ],
+      [
+        809,
+        850
+      ]
+    ],
+    "marker_7_to_start_2": [
+      [
+        809,
+        850
+      ],
+      [
+        5235,
+        850
+      ]
+    ]
+  },
+  "sections": [
+    {
+      "name": "start_to_marker_1",
+      "segment_names": [
+        "start_to_marker_1"
+      ]
+    },
+    {
+      "name": "marker_1_to_marker_2",
+      "segment_names": [
+        "marker_1_to_marker_2_1",
+        "marker_1_to_marker_2_2"
+      ]
+    },
+    {
+      "name": "marker_2_to_marker_3",
+      "segment_names": [
+        "marker_2_to_marker_3_1",
+        "marker_2_to_marker_3_2"
+      ]
+    },
+    {
+      "name": "marker_3_to_marker_4",
+      "segment_names": [
+        "marker_3_to_marker_4"
+      ]
+    },
+    {
+      "name": "marker_4_to_marker_5",
+      "segment_names": [
+        "marker_4_to_marker_5_1",
+        "marker_4_to_marker_5_2",
+        "marker_4_to_marker_5_3"
+      ]
+    },
+    {
+      "name": "marker_5_to_marker_6",
+      "segment_names": [
+        "marker_5_to_marker_6_1",
+        "marker_5_to_marker_6_2"
+      ]
+    },
+    {
+      "name": "marker_6_to_marker_7",
+      "segment_names": [
+        "marker_6_to_marker_7_1",
+        "marker_6_to_marker_7_2",
+        "marker_6_to_marker_7_3",
+        "marker_6_to_marker_7_4",
+        "marker_6_to_marker_7_5",
+        "marker_6_to_marker_7_6",
+        "marker_6_to_marker_7_7",
+        "marker_6_to_marker_7_8",
+        "marker_6_to_marker_7_9"
+      ]
+    },
+    {
+      "name": "marker_7_to_start",
+      "segment_names": [
+        "marker_7_to_start_1",
+        "marker_7_to_start_2"
+      ]
+    }
+  ]
+}

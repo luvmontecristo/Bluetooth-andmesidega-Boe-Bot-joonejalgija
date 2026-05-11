@@ -1,0 +1,92 @@
+{
+    "apps": {
+        "1": {
+            "name": "Kristo kaart",
+            "category": "Joonejälgimine",
+            "map": null,
+            "speeds": {
+                "forward": [150, 150],
+                "turn_left": [-100, 100],
+                "turn_right": [100, -100],
+                "idle": [0, 0]
+            }
+        },
+        "2": {
+            "name": "Granite Track",
+            "category": "Joonejälgimine",
+            "map": "Granite-X",
+            "speeds": {
+                "forward": [150, 150],
+                "turn_left": [-100, 100],
+                "turn_right": [100, -100],
+                "idle": [0, 0]
+            }
+        },
+        "10": {
+            "name": "Skylake-X Maze",
+            "category": "Labürint",
+            "map": "Skylake-X",
+            "speeds": {
+                "forward": [120, 120],
+                "turn_left": [-120, 120],
+                "turn_right": [120, -120],
+                "idle": [0, 0]
+            }
+        },
+        "11": {
+            "name": "Barcelo-X Maze",
+            "category": "Labürint",
+            "map": "Barcelo-X",
+            "speeds": {
+                "forward": [120, 120],
+                "turn_left": [-120, 120],
+                "turn_right": [120, -120],
+                "idle": [0, 0]
+            }
+        },
+        "12": {
+            "name": "Hashwell-1 Maze",
+            "category": "Labürint",
+            "map": "Hashwell-1",
+            "speeds": {
+                "forward": [120, 120],
+                "turn_left": [-120, 120],
+                "turn_right": [120, -120],
+                "idle": [0, 0]
+            }
+        },
+        "20": {
+            "name": "Jörgen",
+            "category": "Ultraheli",
+            "map": null,
+            "speeds": {
+                "forward": [100, 100],
+                "turn_left": [-80, 80],
+                "turn_right": [80, -80],
+                "idle": [0, 0]
+            }
+        },
+        "30": {
+            "name": "Edmond",
+            "category": "Buss",
+            "map": null,
+            "speeds": {
+                "forward": [80, 80],
+                "turn_left": [-60, 60],
+                "turn_right": [60, -60],
+                "idle": [0, 0]
+            }
+        },
+        "default": {
+            "name": "Custom/Default",
+            "category": "Määramata",
+            "map": null,
+            "speeds": {
+                "forward": [100, 100],
+                "turn_left": [-100, 100],
+                "turn_right": [100, -100],
+                "idle": [0, 0]
+            }
+        }
+    }
+}
